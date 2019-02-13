@@ -1,0 +1,11 @@
+# bootstrap
+![alt text](https://github.com/Risqyta/bootstrap/blob/master/a.JPG)
+![alt text](https://github.com/Risqyta/bootstrap/blob/master/b.JPG)
+![alt text](https://github.com/Risqyta/bootstrap/blob/master/c.JPG)
+![alt text](https://github.com/Risqyta/bootstrap/blob/master/d.JPG)
+![alt text](https://github.com/Risqyta/bootstrap/blob/master/e.JPG)
+![alt text](https://github.com/Risqyta/bootstrap/blob/master/f.JPG)
+![alt text](https://github.com/Risqyta/bootstrap/blob/master/g.JPG)
+![alt text](https://github.com/Risqyta/bootstrap/blob/master/h.JPG)
+![alt text](https://github.com/Risqyta/bootstrap/blob/master/i.JPG)
+![alt text](https://github.com/Risqyta/bootstrap/blob/master/j.JPG)
